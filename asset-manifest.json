@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/device-management/static/css/main.f855e6bc.css",
+    "main.js": "/device-management/static/js/main.e94f6beb.js",
+    "static/js/453.ff734056.chunk.js": "/device-management/static/js/453.ff734056.chunk.js",
+    "static/media/logo.svg": "/device-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/device-management/index.html",
+    "main.f855e6bc.css.map": "/device-management/static/css/main.f855e6bc.css.map",
+    "main.e94f6beb.js.map": "/device-management/static/js/main.e94f6beb.js.map",
+    "453.ff734056.chunk.js.map": "/device-management/static/js/453.ff734056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e94f6beb.js"
+  ]
+}
